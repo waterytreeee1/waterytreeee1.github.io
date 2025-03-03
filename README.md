@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
+    <title>justatest</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -41,24 +41,24 @@
         <h1>Welcome to My Website</h1>
         <nav>
             <a href="#about">About</a>
-            <a href="#services">Services</a>
-            <a href="#contact">Contact</a>
+            <a href="#services">wow</a>
+            <a href="#contact">Cool</a>
         </nav>
     </header>
     <main>
         <section id="about">
             <h2>About Us</h2>
-            <p>Insert your description here.</p>
+            <p>hi.</p>
         </section>
         <section id="services">
-            <h2>Our Services</h2>
-            <p>Detail your services here.</p>
+            <h2>testing</h2>
+            <p>test</p>
         </section>
         <section id="contact">
-            <h2>Contact Us</h2>
-            <p>Add your contact information here.</p>
+            <h2>hi</h2>
+            <p>cool.</p>
         </section>
     </main>
     <footer>
-        <p>© 2025 Your Website. All rights reserved.</p>
+        <p>© 2025 coolwebsitecoolwowtestfor. All rights reserved.</p>
     </footer>
